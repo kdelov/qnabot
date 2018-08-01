@@ -1,0 +1,50 @@
+﻿{
+    "qna": [
+
+        {
+            "qid": "Admin.002",
+            "q": [
+                "How to unblock my account?",
+                "How to unblock my LEAP account?",
+                "My leap account has been blocked",
+                "How to fix blocked leap account?",
+                "How to fix my LEAP account?"
+            ],
+            "a": "Your leap account is blocked after two incorrect password attempts. In order to unblock your account, please speak to your delegate training coordinator. If you do not know what delegate training coordinator is, please ask what is a delegate training coordinator in another question",
+            "r": {
+                "title": "",
+                "imageUrl": ""
+            }
+    },
+
+    {
+        "qid": "Tr.001",
+        "q": [
+            "What is a delegate training coordinator?",
+            "What is a DTC?",
+            "What does DTC mean?",
+            "What does Delegate Training coordinator mean?"
+        ],
+        "a": "Your Delegate Training Coordinator is the person in charge of arranging your training. Please ask how to find my delegate training coordinator for more information.",
+        "r": {
+            "title": "",
+            "imageUrl": ""
+        }
+},
+
+{
+    "qid": "Tr.002",
+    "q": [
+        "Who is my delegate training coordinator?",
+        "Who is my DTC?",
+        "How can I find my delegate training coordinator?"
+    ],
+    "a": "To find who has been assigned as your Delegate Training Coordinator, log into LEAP and select personal space, manage personal data from the top menu. Then select the see summary of current assignments hyperlink at the bottom. Your training coordinator will be listed there under Assignments of your training coordinators.",
+    "r": {
+        "title": "",
+        "imageUrl": ""
+    }
+}
+
+    ]
+}
