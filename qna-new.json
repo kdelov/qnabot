@@ -1,0 +1,169 @@
+﻿{
+    "qna": [
+        {
+            "args": [
+                "Quiz.1"
+            ],
+            "a": "You got it. Let's see how much you know about the brand!",
+            "l": "QNA:ExampleJSLambdaQuiz",
+            "qid": "QuizEntry",
+            "type": "qna",
+            "q": [
+                "Enter the Audi Quiz",
+                "Enter Audi Quiz",
+                "Start Audi Quiz",
+                "Start Audi Test",
+                "Start Audi Knowledge test",
+                "Start audi questionnaire"
+            ]
+        },
+        {
+            "next": [],
+            "quiz": "AudiQuiz",
+            "incorrectAnswers": [
+                "Iron Man",
+                "The day after tomorrow",
+                "The Matrix"
+            ],
+            "r": {
+                "subTitle": "",
+                "imageUrl": "",
+                "title": "",
+                "text": "",
+                "url": ""
+            },
+            "question": "Which was the first film that an Audi R8 prototype was used in?",
+            "responses": {
+                "correct": "Correct! The RSQ used in iRobot was the concept car that the R8 was later based on.",
+                "incorrect": "The correct answer was iRobot. The RSQ concept car that appeared in it was the one that the R8 was later based on.",
+                "end": "Thanks for taking the Audi Quiz! Your results will now be sent to your trainer."
+            },
+            "correctAnswers": [
+                "I, Robot"
+            ],
+            "qid": "Quiz.2",
+            "type": "quiz",
+            "q": [],
+            "t": ""
+        },
+        {
+            "a": "Although cancellation is possible, you may incur charges depending on how close to your training date you currently are. If you cancel between two and one weeks prior to your training, your dealership will be charged 200 pounds. From three to seven days the charge increases to 300 pounds. If your training's coming up in three days or less, you will be billed 500 pounds.",
+            "t": "Cancellation",
+            "qid": "Admin.001",
+            "type": "qna",
+            "q": [
+                "Can I cancel my booking?",
+                "I would like to cancel my booking",
+                "Can I cancel my training course",
+                "I would like to cancel a training course"
+            ]
+        },
+        {
+            "next": "",
+            "args": [
+                ""
+            ],
+            "a": "We're sorry you're unable to get into your LEAP account.Could you attempt to open the webpage with a different browser or in case you thhink that your account may be blocked, please ask how to unblock my leap account in another question",
+            "t": "Account",
+            "r": {
+                "subTitle": "",
+                "imageUrl": "",
+                "title": "",
+                "text": "",
+                "url": ""
+            },
+            "t": "",
+            "alt": {
+                "markdown": "",
+                "ssml": ""
+            },
+            "l": "",
+            "qid": "Login.001",
+            "type": "qna",
+            "q": [
+                "Leap won't work",
+                "I can't log into LEAP",
+                "I can't seem to get into my account",
+                "My account doesn't work",
+                "My account won't work",
+                "I can't log in",
+                "I can't login",
+                "I'm unable to log into my account",
+                "I can't log into my leap account",
+                "I can't log into my leap profile"
+            ]
+        },
+        {
+            "next": [
+                "Quiz.2"
+            ],
+            "quiz": "AudiQuiz",
+            "incorrectAnswers": [
+                "Audi Q7",
+                "Audi Q3",
+                "Volkswagen Tiguan",
+                "Audi Q5"
+            ],
+            "r": {
+                "subTitle": "",
+                "imageUrl": "",
+                "title": "",
+                "text": "",
+                "url": ""
+            },
+            "question": "What platform is the Audi e-tron Quattro built on?",
+            "responses": {
+                "correct": "Well done! The Audi E-tron Quattro is based on a long wheel base version of the Q5 sold in China. This leaves enough space for the battery.",
+                "incorrect": "Unfortunately the right answer is Audi Q5. The car is based on a long wheel base version of it sold in China to leave space for the battery.",
+                "end": ""
+            },
+            "correctAnswers": [
+                "Audi Q5 long wheel base"
+            ],
+            "qid": "Quiz.1",
+            "type": "quiz",
+            "q": [],
+            "t": ""
+        },
+
+      {
+        "a": "Your leap account is blocked after two incorrect password attempts. In order to unblock your account, please speak to your delegate training coordinator. If you do not know what delegate training coordinator is, please ask what is a delegate training coordinator in another question",
+        "t": "Account",
+        "qid": "Admin.002",
+        "type": "qna",
+        "q": [
+            "How to unblock my account?",
+            "How to unblock my LEAP account?",
+            "My leap account has been blocked",
+            "How to fix blocked leap account?",
+            "How to fix my LEAP account?"
+        ]
+    },
+
+    {
+        "a": "Your Delegate Training Coordinator is the person in charge of arranging your training. Please ask how to find my delegate training coordinator for more information.",
+        "t": "Training",
+        "qid": "QuestionID",
+        "type": "qna",
+        "q": [
+            "What is a delegate training coordinator?",
+            "What is a DTC?",
+            "What does DTC mean?",
+            "What does Delegate Training coordinator mean?",
+        ]
+    },
+
+    {
+        "a": "To find who has been assigned as your Delegate Training Coordinator, log into LEAP and select personal space, manage personal data from the top menu. Then select the see summary of current assignments hyperlink at the bottom. Your training coordinator will be listed there under Assignments of your training coordinators.",
+        "t": "Training",
+        "qid": "QuestionID",
+        "type": "qna",
+        "q": [
+            "Who is my delegate training coordinator?",
+            "Who is my DTC?",
+            "How can I find my delegate training coordinator?"
+        ]
+    }
+
+    ]
+}
